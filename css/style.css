@@ -27,3 +27,21 @@ h3{
 .blue{
     color: aqua;
 }
+#img1{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    background-image: url(img\monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+#img2{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    background-image: url(img\graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
