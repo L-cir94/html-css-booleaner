@@ -1,0 +1,11 @@
+header{
+height: 100px;
+border: solid 2px;
+}
+#logo-intestazione{
+    width: 300px;
+    margin-top: 20px;
+}
+#background-intestazione{
+    background-image: url(img\pattern.png);
+}
