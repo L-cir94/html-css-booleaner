@@ -9,3 +9,18 @@ border: solid 2px;
 #background-intestazione{
     background-image: url(img\pattern.png);
 }
+.underlined{
+    background-color: yellow;
+}
+table{
+width:100%;
+}
+thead{
+    background-color: aqua;
+}
+.uno{
+    background-color: rgba(0, 255, 255, 0.238);
+}
+h3{
+    color: rgba(0, 0, 0, 0.399);
+}
