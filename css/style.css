@@ -1,13 +1,20 @@
+
+body{
+    margin: 0
+    ;
+}
 header{
-height: 100px;
-border: solid 2px;
+
 }
 #logo-intestazione{
-    width: 300px;
-    margin-top: 20px;
+    width: 150px;
+    padding-top: 40px;
+    padding-left: 10px;
 }
 #background-intestazione{
-    background-image: url(img/pattern.png);
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+    background-color: rgb(127, 176, 255);
 }
 .underlined{
     background-color: yellow;
@@ -31,7 +38,7 @@ h3{
     width: 200px;
     height: 200px;
     border: solid black;
-    background-image: url(img\monitor.jpg);
+    background-image: url("img/monitor.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     color: white;
